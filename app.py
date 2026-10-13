@@ -338,6 +338,8 @@ def render_player_analysis(df: pd.DataFrame) -> None:
             appearances=("appearances", "sum"),
             minutes_played=("minutes_played", "sum"),
             pass_accuracy=("pass_accuracy", "mean"),
+            yellow_cards=("yellow_cards", "sum"),
+            red_cards=("red_cards", "sum"),
         )
     )
     player_agg["rating"] = player_agg["rating"].round(2)
