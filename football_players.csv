@@ -1,0 +1,201 @@
+player_id,player_name,team,position,season,age,nationality,appearances,minutes_played,goals,assists,shots,shots_on_target,pass_accuracy,dribbles,tackles,yellow_cards,red_cards,clean_sheets,rating
+1,James Silva,Riverside FC,GK,2022-23,34,Moroccan,14,1069,0,1,0,0,92.6,11,22,1,1,18,6.3
+1,James Silva,Riverside FC,GK,2023-24,35,Moroccan,23,1888,1,0,4,2,80.3,24,31,8,2,15,6.2
+2,James Müller,Iron City United,GK,2022-23,35,German,16,1267,0,1,0,0,85.7,73,92,5,0,16,6.3
+2,James Müller,Iron City United,GK,2023-24,36,German,33,2758,1,0,4,2,93.4,62,61,6,1,5,6.2
+3,James Dupont,Midlands City,GK,2022-23,22,English,22,1451,0,1,0,0,86.7,55,34,1,0,14,6.3
+3,James Dupont,Midlands City,GK,2023-24,23,English,23,2023,1,0,4,2,65.7,52,3,4,1,11,6.1
+4,James García,Westport Wanderers,FWD,2022-23,19,Argentine,12,1022,9,4,30,16,66.6,69,88,7,2,0,6.7
+4,James García,Westport Wanderers,FWD,2023-24,20,Argentine,26,1786,19,15,64,35,88.8,55,114,3,2,0,8.0
+5,James Fernandez,Riverside FC,DEF,2022-23,24,Nigerian,32,2174,0,5,0,0,81.8,41,44,5,0,6,6.4
+5,James Fernandez,Riverside FC,DEF,2023-24,25,Nigerian,29,2109,3,6,10,6,84.0,78,61,4,2,11,6.4
+6,James Costa,Southgate Athletic,DEF,2022-23,23,Dutch,34,2363,0,5,0,0,71.3,39,98,9,1,12,6.2
+6,James Costa,Southgate Athletic,DEF,2023-24,24,Dutch,19,1641,5,4,17,9,78.1,36,51,4,1,1,6.4
+7,James Ribeiro,Eastfield Rangers,GK,2022-23,26,Colombian,32,2422,0,1,0,0,89.0,37,0,5,1,12,6.2
+7,James Ribeiro,Eastfield Rangers,GK,2023-24,27,Colombian,29,2599,1,0,4,2,92.1,74,89,6,2,17,6.4
+8,James Okoye,Iron City United,DEF,2022-23,33,Moroccan,18,1170,2,1,7,4,92.1,3,78,3,1,8,6.5
+8,James Okoye,Iron City United,DEF,2023-24,34,Moroccan,23,1811,5,5,17,9,71.1,0,7,8,1,9,6.3
+9,James Tanaka,Southgate Athletic,GK,2022-23,34,Moroccan,28,2449,0,1,0,0,85.4,33,36,7,1,8,6.2
+9,James Tanaka,Southgate Athletic,GK,2023-24,35,Moroccan,33,2380,1,0,4,2,79.0,6,109,4,1,13,6.2
+10,James Diallo,Iron City United,FWD,2022-23,21,French,26,2327,11,10,37,20,77.2,47,34,9,2,0,7.1
+10,James Diallo,Iron City United,FWD,2023-24,22,French,28,2127,21,14,70,38,68.1,33,108,5,2,0,7.6
+11,James Schmidt,Eastfield Rangers,FWD,2022-23,26,English,22,1589,15,10,50,28,80.3,35,38,9,1,0,7.4
+11,James Schmidt,Eastfield Rangers,FWD,2023-24,27,English,28,2382,25,7,84,46,75.2,5,112,7,2,0,7.8
+12,James Moreno,Capital Athletic,MID,2022-23,19,Japanese,10,902,12,12,40,22,65.1,23,74,5,0,0,7.0
+12,James Moreno,Capital Athletic,MID,2023-24,20,Japanese,24,1841,10,8,34,19,90.5,57,12,1,1,0,7.1
+13,James Rossi,Capital Athletic,DEF,2022-23,24,French,10,867,2,1,7,4,75.0,11,86,1,0,8,6.3
+13,James Rossi,Capital Athletic,DEF,2023-24,25,French,31,1941,1,1,4,2,81.5,72,95,6,1,5,6.2
+14,James Petrov,Midlands City,MID,2022-23,21,Brazilian,36,2390,14,4,47,26,86.0,57,4,7,0,0,7.1
+14,James Petrov,Midlands City,MID,2023-24,22,Brazilian,30,1936,2,14,7,4,72.7,75,118,1,2,0,6.8
+15,James Davies,Riverside FC,DEF,2022-23,22,Spanish,12,986,2,0,7,4,75.7,77,48,3,1,2,6.2
+15,James Davies,Riverside FC,DEF,2023-24,23,Spanish,17,1097,1,4,4,2,77.7,34,65,4,0,11,6.2
+16,James Johnson,Iron City United,DEF,2022-23,27,Spanish,22,1953,4,6,14,8,87.9,11,46,1,2,12,6.7
+16,James Johnson,Iron City United,DEF,2023-24,28,Spanish,15,1157,1,4,4,2,92.3,24,87,4,1,1,6.5
+17,James Wilson,Northern Star,DEF,2022-23,18,Italian,36,2304,2,3,7,4,92.8,41,44,7,0,10,6.6
+17,James Wilson,Northern Star,DEF,2023-24,19,Italian,21,1499,3,2,10,6,68.3,78,45,6,2,11,6.2
+18,James Martinez,Iron City United,DEF,2022-23,35,English,34,2398,4,1,14,8,75.3,55,34,3,1,4,6.3
+18,James Martinez,Iron City United,DEF,2023-24,36,English,19,1336,5,3,17,9,62.6,20,19,6,0,9,6.3
+19,James Nkosi,Riverside FC,DEF,2022-23,32,Argentine,28,1856,2,6,7,4,69.9,53,64,5,1,2,6.2
+19,James Nkosi,Riverside FC,DEF,2023-24,33,Argentine,37,3124,3,3,10,6,66.7,58,49,2,1,7,6.2
+20,James Mbeki,Northern Star,MID,2022-23,19,Belgian,30,2296,13,6,44,24,87.4,3,22,7,0,0,7.1
+20,James Mbeki,Northern Star,MID,2023-24,20,Belgian,36,2450,10,10,34,19,71.8,37,0,3,2,0,6.8
+21,James Ramirez,Westport Wanderers,DEF,2022-23,22,Japanese,22,1925,0,1,0,0,68.2,23,50,3,2,12,6.1
+21,James Ramirez,Westport Wanderers,DEF,2023-24,23,Japanese,19,1385,5,2,17,9,75.3,36,67,2,0,5,6.3
+22,James Torres,Midlands City,DEF,2022-23,33,Nigerian,28,2273,4,3,14,8,65.0,5,32,1,0,2,6.3
+22,James Torres,Midlands City,DEF,2023-24,34,Nigerian,29,2509,5,6,17,9,86.2,58,81,8,2,7,6.7
+23,James Pereira,Capital Athletic,FWD,2022-23,28,Belgian,18,1258,23,15,77,42,89.6,19,38,7,2,0,8.3
+23,James Pereira,Capital Athletic,FWD,2023-24,29,Belgian,28,2081,9,3,30,16,80.4,21,56,1,1,0,6.8
+24,James Sanchez,Capital Athletic,FWD,2022-23,29,Senegalese,22,1729,11,2,37,20,88.2,23,74,1,0,0,6.8
+24,James Sanchez,Capital Athletic,FWD,2023-24,30,Senegalese,32,2120,5,17,17,9,88.3,9,4,3,0,0,7.2
+25,James Souza,Riverside FC,DEF,2022-23,22,French,26,1691,4,5,14,8,80.7,27,86,3,2,8,6.6
+25,James Souza,Riverside FC,DEF,2023-24,23,French,31,2265,3,4,10,6,85.1,40,47,0,0,9,6.6
+26,James Alves,Midlands City,DEF,2022-23,23,Colombian,12,771,2,4,7,4,84.4,73,116,3,2,10,6.3
+26,James Alves,Midlands City,DEF,2023-24,24,Colombian,29,2417,1,3,4,2,85.3,46,21,8,0,3,6.5
+27,James Becker,Westport Wanderers,DEF,2022-23,30,Dutch,34,2291,2,5,7,4,93.5,55,74,7,2,8,6.6
+27,James Becker,Westport Wanderers,DEF,2023-24,31,Dutch,27,2172,1,5,4,2,70.5,52,75,4,2,5,6.3
+28,James Weber,Southgate Athletic,DEF,2022-23,19,Japanese,28,2574,4,4,14,8,92.9,37,32,7,1,10,6.6
+28,James Weber,Southgate Athletic,DEF,2023-24,20,Japanese,33,2407,3,4,10,6,87.5,74,57,8,1,3,6.4
+29,James Fischer,Northern Star,FWD,2022-23,26,Portuguese,30,2244,15,2,50,28,85.5,51,62,7,2,0,7.1
+29,James Fischer,Northern Star,FWD,2023-24,27,Portuguese,28,1973,17,11,57,31,63.1,53,40,9,0,0,7.3
+30,James Meyer,Westport Wanderers,MID,2022-23,29,Belgian,26,1620,2,6,7,4,90.5,71,74,7,0,0,6.6
+30,James Meyer,Westport Wanderers,MID,2023-24,30,Belgian,12,854,2,4,7,4,64.3,73,44,5,0,0,6.2
+31,James Hendrix,Capital Athletic,MID,2022-23,20,Argentine,26,2300,9,6,30,16,70.5,59,22,3,0,0,6.6
+31,James Hendrix,Capital Athletic,MID,2023-24,21,Argentine,28,1883,2,4,7,4,68.6,29,64,1,2,0,6.2
+32,James Campbell,Northern Star,MID,2022-23,25,Belgian,10,659,5,14,17,9,66.1,47,34,3,0,0,6.7
+32,James Campbell,Northern Star,MID,2023-24,26,Belgian,24,1749,14,6,47,26,66.0,17,68,3,2,0,6.9
+33,James Owens,Iron City United,MID,2022-23,24,Italian,22,1747,11,14,37,20,86.9,3,30,1,2,0,7.4
+33,James Owens,Iron City United,MID,2023-24,25,Italian,36,2682,4,10,14,8,82.2,21,64,5,2,0,6.8
+34,James Walker,Capital Athletic,FWD,2022-23,23,Portuguese,22,1875,19,15,64,35,74.9,71,66,9,0,0,7.9
+34,James Walker,Capital Athletic,FWD,2023-24,24,Portuguese,32,2678,21,10,70,38,86.5,41,108,9,1,0,7.8
+35,James Allen,Northern Star,MID,2022-23,20,Argentine,14,1231,12,14,40,22,90.9,75,62,7,1,0,7.5
+35,James Allen,Northern Star,MID,2023-24,21,Argentine,12,805,10,4,34,19,71.3,77,88,7,0,0,6.6
+36,James Young,Iron City United,MID,2022-23,19,Spanish,30,2347,2,10,7,4,62.5,63,18,3,2,0,6.5
+36,James Young,Iron City United,MID,2023-24,20,Spanish,36,2382,7,10,24,13,62.5,1,20,3,1,0,6.7
+37,James Hall,Northern Star,MID,2022-23,22,Brazilian,18,1477,10,8,34,19,77.4,19,38,1,0,0,6.9
+37,James Hall,Northern Star,MID,2023-24,23,Brazilian,36,2998,8,6,27,15,62.3,53,48,1,2,0,6.7
+38,James Adams,Northern Star,MID,2022-23,19,Colombian,22,1889,13,8,44,24,79.6,55,2,9,1,0,7.3
+38,James Adams,Northern Star,MID,2023-24,20,Colombian,36,2757,2,4,7,4,69.0,73,20,7,2,0,6.2
+39,James Baker,Eastfield Rangers,FWD,2022-23,22,Belgian,14,935,23,3,77,42,81.5,59,6,3,1,0,7.6
+39,James Baker,Eastfield Rangers,FWD,2023-24,23,Belgian,12,1095,25,6,84,46,79.4,45,24,1,0,0,7.9
+40,James Nelson,Northern Star,MID,2022-23,29,Japanese,34,2501,13,10,44,24,68.9,63,90,5,0,0,7.2
+40,James Nelson,Northern Star,MID,2023-24,30,Japanese,12,1060,2,6,7,4,90.7,33,12,7,1,0,6.5
+41,James Carter,Eastfield Rangers,MID,2022-23,28,Nigerian,34,2625,5,12,17,9,71.6,51,70,9,1,0,6.7
+41,James Carter,Eastfield Rangers,MID,2023-24,29,Nigerian,28,1946,12,4,40,22,70.2,37,104,1,1,0,6.7
+42,James Mitchell,Capital Athletic,MID,2022-23,21,Belgian,10,760,6,8,20,11,88.7,7,66,9,0,0,6.9
+42,James Mitchell,Capital Athletic,MID,2023-24,22,Belgian,16,1424,12,16,40,22,70.8,73,4,1,0,0,7.4
+43,James Roberts,Northern Star,FWD,2022-23,28,English,22,1879,7,6,24,13,86.2,75,78,1,0,0,7.0
+43,James Roberts,Northern Star,FWD,2023-24,29,English,36,3265,25,2,84,46,76.2,13,0,9,1,0,7.5
+44,James Evans,Midlands City,MID,2022-23,33,Italian,26,1977,13,4,44,24,75.3,79,98,7,0,0,7.0
+44,James Evans,Midlands City,MID,2023-24,34,Italian,28,2562,4,8,14,8,74.5,33,68,3,2,0,6.4
+45,James Turner,Iron City United,DEF,2022-23,30,Colombian,30,2733,4,1,14,8,71.6,19,54,7,0,12,6.2
+45,James Turner,Iron City United,DEF,2023-24,31,Colombian,35,2286,1,3,4,2,62.5,64,47,0,1,1,5.9
+46,James Phillips,Capital Athletic,MID,2022-23,31,Senegalese,28,2510,13,16,44,24,78.9,33,108,9,0,0,7.6
+46,James Phillips,Capital Athletic,MID,2023-24,32,Senegalese,14,1051,5,14,17,9,71.9,3,22,5,1,0,6.7
+47,James Parker,Northern Star,DEF,2022-23,30,Japanese,12,834,2,4,7,4,81.0,37,32,5,2,10,6.4
+47,James Parker,Northern Star,DEF,2023-24,31,Japanese,17,1229,3,3,10,6,66.3,74,73,6,2,3,6.3
+48,James Edwards,Midlands City,MID,2022-23,27,Senegalese,14,1253,10,12,34,19,68.6,51,110,3,2,0,6.9
+48,James Edwards,Midlands City,MID,2023-24,28,Senegalese,16,1367,13,16,44,24,73.1,69,96,5,2,0,7.5
+49,James Collins,Iron City United,FWD,2022-23,34,Brazilian,34,2282,19,4,64,35,90.0,7,50,3,0,0,7.5
+49,James Collins,Iron City United,FWD,2023-24,35,Brazilian,24,2094,5,8,17,9,74.8,57,76,5,0,0,6.6
+50,James Stewart,Northern Star,FWD,2022-23,35,French,26,2367,23,12,77,42,81.9,27,70,7,0,0,8.0
+50,James Stewart,Northern Star,FWD,2023-24,36,French,12,849,25,8,84,46,90.1,45,24,1,1,0,8.0
+51,Lucas Müller,Eastfield Rangers,FWD,2022-23,28,French,22,1808,19,17,64,35,68.5,79,2,5,1,0,7.8
+51,Lucas Müller,Eastfield Rangers,FWD,2023-24,29,French,36,2954,13,9,44,24,75.5,33,116,9,0,0,7.2
+52,Lucas Dupont,Westport Wanderers,FWD,2022-23,31,German,18,1358,23,5,77,42,77.5,51,78,9,1,0,7.7
+52,Lucas Dupont,Westport Wanderers,FWD,2023-24,32,German,12,925,17,13,57,31,79.4,37,112,3,1,0,7.5
+53,Lucas García,Southgate Athletic,FWD,2022-23,32,Colombian,18,1492,27,12,90,50,76.4,71,114,1,1,0,8.2
+53,Lucas García,Southgate Athletic,FWD,2023-24,33,Colombian,24,1501,21,5,70,38,77.1,9,20,7,1,0,7.6
+54,Lucas Fernandez,Midlands City,DEF,2022-23,35,Portuguese,18,1316,4,1,14,8,69.8,11,78,3,2,8,6.2
+54,Lucas Fernandez,Midlands City,DEF,2023-24,36,Portuguese,15,1263,1,6,4,2,91.9,72,15,6,0,5,6.5
+55,Lucas Costa,Riverside FC,GK,2022-23,28,Moroccan,16,1216,0,1,0,0,68.0,25,116,3,0,16,5.9
+55,Lucas Costa,Riverside FC,GK,2023-24,29,Moroccan,21,1327,1,0,4,2,67.5,78,109,2,1,5,6.0
+56,Lucas Ribeiro,Eastfield Rangers,MID,2022-23,25,Moroccan,34,2547,12,14,40,22,86.6,39,98,5,0,0,7.4
+56,Lucas Ribeiro,Eastfield Rangers,MID,2023-24,26,Moroccan,20,1518,7,10,24,13,85.6,41,76,1,0,0,7.1
+57,Lucas Okoye,Midlands City,DEF,2022-23,22,Portuguese,26,1847,2,5,7,4,62.2,59,54,5,1,4,6.1
+57,Lucas Okoye,Midlands City,DEF,2023-24,23,Portuguese,11,748,3,6,10,6,72.3,72,63,4,1,5,6.5
+58,Lucas Tanaka,Capital Athletic,DEF,2022-23,29,Nigerian,16,1305,2,2,7,4,65.6,25,44,5,1,10,6.0
+58,Lucas Tanaka,Capital Athletic,DEF,2023-24,30,Nigerian,25,1848,3,2,10,6,78.2,78,37,8,1,7,6.3
+59,Lucas Diallo,Westport Wanderers,MID,2022-23,30,Italian,18,1625,9,10,30,16,75.4,55,42,5,0,0,6.9
+59,Lucas Diallo,Westport Wanderers,MID,2023-24,31,Italian,24,2181,9,14,30,16,68.6,57,20,1,1,0,6.9
+60,Lucas Schmidt,Riverside FC,DEF,2022-23,25,Brazilian,14,1159,2,4,7,4,92.8,75,14,9,0,4,6.5
+60,Lucas Schmidt,Riverside FC,DEF,2023-24,26,Brazilian,35,2704,5,0,17,9,80.0,40,55,8,2,9,6.5
+61,Lucas Moreno,Southgate Athletic,MID,2022-23,18,Portuguese,16,1281,11,16,37,20,88.2,73,76,3,1,0,7.5
+61,Lucas Moreno,Southgate Athletic,MID,2023-24,19,Portuguese,34,2475,10,8,34,19,82.9,43,54,3,2,0,7.2
+62,Lucas Rossi,Capital Athletic,MID,2022-23,29,Italian,28,2265,6,10,20,11,84.6,77,56,1,1,0,6.9
+62,Lucas Rossi,Capital Athletic,MID,2023-24,30,Italian,22,1889,10,8,34,19,67.4,31,42,7,1,0,6.8
+63,Lucas Petrov,Westport Wanderers,DEF,2022-23,22,Brazilian,20,1680,2,5,7,4,68.6,49,52,3,0,6,6.1
+63,Lucas Petrov,Westport Wanderers,DEF,2023-24,23,Brazilian,33,2489,5,5,17,9,88.3,70,13,4,0,3,6.7
+64,Lucas Davies,Eastfield Rangers,MID,2022-23,23,Argentine,26,2213,9,10,30,16,71.8,31,50,1,1,0,6.8
+64,Lucas Davies,Eastfield Rangers,MID,2023-24,24,Argentine,16,1375,9,10,30,16,83.5,1,92,1,1,0,7.1
+65,Lucas Johnson,Capital Athletic,GK,2022-23,32,Nigerian,14,1232,0,1,0,0,70.6,35,62,1,0,10,6.0
+65,Lucas Johnson,Capital Athletic,GK,2023-24,33,Nigerian,27,2436,1,0,4,2,88.1,0,79,0,1,7,6.2
+66,Lucas Wilson,Southgate Athletic,MID,2022-23,33,Spanish,36,2537,3,14,10,6,78.5,17,28,7,2,0,6.7
+66,Lucas Wilson,Southgate Athletic,MID,2023-24,34,Spanish,18,1243,4,14,14,8,88.9,35,70,3,0,0,7.0
+67,Lucas Martinez,Eastfield Rangers,DEF,2022-23,26,German,36,2302,4,6,14,8,64.7,5,32,1,0,6,6.4
+67,Lucas Martinez,Eastfield Rangers,DEF,2023-24,27,German,13,1152,3,4,10,6,88.6,58,113,4,0,11,6.6
+68,Lucas Nkosi,Southgate Athletic,FWD,2022-23,21,Japanese,14,1155,15,13,50,28,68.8,67,70,1,0,0,7.2
+68,Lucas Nkosi,Southgate Athletic,FWD,2023-24,22,Japanese,20,1716,25,10,84,46,91.0,5,32,5,1,0,8.3
+69,Lucas Mbeki,Northern Star,MID,2022-23,24,Dutch,14,887,12,16,40,22,92.9,7,74,5,1,0,7.7
+69,Lucas Mbeki,Northern Star,MID,2023-24,25,Dutch,12,880,8,14,27,15,74.8,57,116,9,2,0,7.0
+70,Lucas Ramirez,Eastfield Rangers,FWD,2022-23,29,Portuguese,34,2556,15,4,50,28,84.2,59,38,5,0,0,7.3
+70,Lucas Ramirez,Eastfield Rangers,FWD,2023-24,30,Portuguese,12,828,9,9,30,16,66.5,77,88,9,1,0,6.8
+71,Lucas Torres,Northern Star,MID,2022-23,20,Belgian,30,1984,14,8,47,26,91.9,31,26,5,1,0,7.4
+71,Lucas Torres,Northern Star,MID,2023-24,21,Belgian,20,1608,6,14,20,11,73.1,17,100,1,0,0,7.0
+72,Lucas Pereira,Iron City United,FWD,2022-23,29,French,18,1535,23,5,77,42,68.6,19,6,1,0,0,7.5
+72,Lucas Pereira,Iron City United,FWD,2023-24,30,French,16,1229,17,10,57,31,76.1,21,24,5,0,0,7.5
+73,Lucas Sanchez,Riverside FC,FWD,2022-23,18,Dutch,18,1615,11,14,37,20,93.3,55,42,9,2,0,7.4
+73,Lucas Sanchez,Riverside FC,FWD,2023-24,19,Dutch,16,1246,5,9,17,9,76.5,25,20,7,0,0,6.8
+74,Lucas Souza,Midlands City,MID,2022-23,23,French,14,1203,7,4,24,13,91.0,43,94,5,0,0,6.9
+74,Lucas Souza,Midlands City,MID,2023-24,24,French,20,1344,9,4,30,16,62.3,45,80,3,1,0,6.4
+75,Lucas Alves,Southgate Athletic,DEF,2022-23,22,Italian,10,701,2,0,7,4,80.8,63,90,3,2,8,6.4
+75,Lucas Alves,Southgate Athletic,DEF,2023-24,23,Italian,15,1069,3,0,10,6,71.6,60,83,0,2,5,6.2
+76,Lucas Becker,Westport Wanderers,FWD,2022-23,21,Senegalese,28,2175,17,2,57,31,89.5,61,8,9,2,0,7.4
+76,Lucas Becker,Westport Wanderers,FWD,2023-24,22,Senegalese,18,1439,19,5,64,35,64.6,79,34,5,1,0,7.2
+77,Lucas Weber,Riverside FC,DEF,2022-23,22,Italian,24,1770,0,3,0,0,75.3,65,4,9,0,2,6.1
+77,Lucas Weber,Riverside FC,DEF,2023-24,23,Italian,13,1062,5,0,17,9,68.8,38,101,6,1,7,6.2
+78,Lucas Fischer,Westport Wanderers,MID,2022-23,31,Moroccan,34,2707,10,4,34,19,74.6,63,10,1,1,0,6.7
+78,Lucas Fischer,Westport Wanderers,MID,2023-24,32,Moroccan,12,1081,8,10,27,15,73.6,65,28,3,2,0,7.0
+79,Lucas Meyer,Iron City United,MID,2022-23,34,Spanish,34,2792,14,8,47,26,78.4,67,94,7,1,0,7.2
+79,Lucas Meyer,Iron City United,MID,2023-24,35,Spanish,24,1495,5,10,17,9,78.7,53,104,5,2,0,6.9
+80,Lucas Hendrix,Midlands City,FWD,2022-23,31,German,22,1583,11,9,37,20,87.3,7,34,7,1,0,7.3
+80,Lucas Hendrix,Midlands City,FWD,2023-24,32,German,28,2001,21,17,70,38,84.9,9,60,9,1,0,8.2
+81,Lucas Campbell,Iron City United,FWD,2022-23,28,German,34,2659,15,12,50,28,70.5,27,78,9,1,0,7.2
+81,Lucas Campbell,Iron City United,FWD,2023-24,29,German,16,1028,17,2,57,31,88.9,77,96,5,2,0,7.4
+82,Lucas Owens,Midlands City,MID,2022-23,27,English,10,703,4,12,14,8,62.9,31,34,9,2,0,6.7
+82,Lucas Owens,Midlands City,MID,2023-24,28,English,24,1558,5,12,17,9,91.9,65,60,3,2,0,7.1
+83,Lucas Walker,Southgate Athletic,DEF,2022-23,22,Senegalese,14,1194,4,4,14,8,73.8,35,86,9,1,8,6.3
+83,Lucas Walker,Southgate Athletic,DEF,2023-24,23,Senegalese,23,1521,1,2,4,2,64.3,32,39,6,0,5,5.8
+84,Lucas Allen,Riverside FC,FWD,2022-23,19,Argentine,24,1908,5,16,17,9,77.3,33,20,1,1,0,7.0
+84,Lucas Allen,Riverside FC,FWD,2023-24,20,Argentine,34,2565,7,5,24,13,74.4,67,110,3,0,0,6.5
+85,Lucas Young,Eastfield Rangers,DEF,2022-23,20,Dutch,28,2177,0,1,0,0,88.1,5,32,3,1,2,6.2
+85,Lucas Young,Eastfield Rangers,DEF,2023-24,21,Dutch,33,2307,5,1,17,9,88.7,10,17,6,1,3,6.6
+86,Lucas Hall,Southgate Athletic,MID,2022-23,23,English,22,1868,13,14,44,24,63.2,67,94,1,2,0,7.1
+86,Lucas Hall,Southgate Athletic,MID,2023-24,24,English,28,2526,11,4,37,20,70.4,5,88,7,1,0,6.7
+87,Lucas Adams,Southgate Athletic,MID,2022-23,22,Spanish,14,1252,9,12,30,16,85.2,55,2,9,2,0,7.3
+87,Lucas Adams,Southgate Athletic,MID,2023-24,23,Spanish,28,2068,6,10,20,11,80.8,41,84,5,2,0,6.9
+88,Lucas Baker,Westport Wanderers,MID,2022-23,21,Argentine,26,1897,3,14,10,6,80.0,59,110,3,2,0,6.8
+88,Lucas Baker,Westport Wanderers,MID,2023-24,22,Argentine,32,2202,8,12,27,15,64.2,45,80,1,2,0,6.8
+89,Lucas Nelson,Riverside FC,DEF,2022-23,18,Senegalese,30,2046,2,2,7,4,81.0,31,18,5,0,4,6.1
+89,Lucas Nelson,Riverside FC,DEF,2023-24,19,Senegalese,35,2473,5,3,17,9,90.4,76,75,2,1,9,6.8
+90,Lucas Carter,Capital Athletic,FWD,2022-23,19,Brazilian,20,1822,25,17,84,46,89.0,61,48,5,0,0,8.4
+90,Lucas Carter,Capital Athletic,FWD,2023-24,20,Brazilian,14,1199,19,15,64,35,77.4,63,58,7,0,0,7.9
+91,Lucas Mitchell,Eastfield Rangers,FWD,2022-23,28,German,20,1280,21,2,70,38,68.1,17,36,7,0,0,7.3
+91,Lucas Mitchell,Eastfield Rangers,FWD,2023-24,29,German,22,1956,7,17,24,13,73.9,3,102,9,1,0,7.2
+92,Lucas Roberts,Riverside FC,MID,2022-23,35,Colombian,28,1739,7,8,24,13,68.7,5,96,9,0,0,6.7
+92,Lucas Roberts,Riverside FC,MID,2023-24,36,Colombian,22,1622,14,10,47,26,74.6,71,98,3,1,0,7.1
+93,Lucas Evans,Westport Wanderers,MID,2022-23,28,Nigerian,32,2118,2,12,7,4,86.1,9,116,9,0,0,6.8
+93,Lucas Evans,Westport Wanderers,MID,2023-24,29,Nigerian,14,1162,10,16,34,19,89.7,27,14,7,1,0,7.5
+94,Lucas Turner,Westport Wanderers,MID,2022-23,25,Dutch,32,2423,13,4,44,24,88.4,61,88,1,1,0,7.2
+94,Lucas Turner,Westport Wanderers,MID,2023-24,26,Dutch,34,2136,14,14,47,26,65.0,47,10,5,0,0,7.2
+95,Lucas Phillips,Riverside FC,FWD,2022-23,32,Spanish,24,2103,21,11,70,38,71.7,65,60,3,0,0,7.7
+95,Lucas Phillips,Riverside FC,FWD,2023-24,33,Spanish,30,2051,7,8,24,13,81.5,19,22,3,0,0,6.7
+96,Lucas Parker,Capital Athletic,MID,2022-23,33,Brazilian,16,1005,9,8,30,16,75.6,37,16,9,1,0,6.9
+96,Lucas Parker,Capital Athletic,MID,2023-24,34,Brazilian,34,2984,14,14,47,26,83.0,55,114,1,1,0,7.5
+97,Lucas Edwards,Iron City United,FWD,2022-23,34,English,36,2620,5,9,17,9,79.8,57,92,1,1,0,6.7
+97,Lucas Edwards,Iron City United,FWD,2023-24,35,English,10,722,7,7,24,13,82.2,59,30,9,1,0,6.9
+98,Lucas Collins,Southgate Athletic,GK,2022-23,31,Dutch,28,2341,0,1,0,0,71.3,45,80,1,1,4,6.0
+98,Lucas Collins,Southgate Athletic,GK,2023-24,32,Dutch,37,2467,1,0,4,2,89.7,50,105,8,2,9,6.3
+99,Lucas Stewart,Eastfield Rangers,MID,2022-23,22,Portuguese,26,2356,12,14,40,22,81.2,75,38,5,0,0,7.3
+99,Lucas Stewart,Eastfield Rangers,MID,2023-24,23,Portuguese,12,871,14,8,47,26,82.5,29,40,9,2,0,7.2
+100,Lucas Silva,Midlands City,MID,2022-23,21,German,14,1030,5,6,17,9,62.6,63,106,7,0,0,6.3
+100,Lucas Silva,Midlands City,MID,2023-24,22,German,24,2128,6,12,20,11,70.0,65,4,3,0,0,6.7
